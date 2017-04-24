@@ -12,7 +12,7 @@ Projects related to [Home Assistant](https://home-assistant.io):
 
 * [Blinkg!](https://home-assistant.io) light plugin similar to the Piglow plugin
 * [Yale Smart Home Alarm](http://www.yale.co.uk/en/yale/couk/productsdb/alarms/smart-home-range-/) plugin
-* Improvements to GTFS support (different use cases, e.g. not just triggering when a scheduled departure is but by scheduled arrivals too)
+* Improvements to [GTFS](https://home-assistant.io/components/sensor.gtfs/) support (different use cases, e.g. not just triggering when a scheduled departure is but by scheduled arrivals too)
 
 ## License
 
